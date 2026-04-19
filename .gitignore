@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment & secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data & models (large files)
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+datasets/*.csv
+datasets/*.jsonl
+datasets/*.pdf
+datasets/*.txt
+
+# Vector stores / databases
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
