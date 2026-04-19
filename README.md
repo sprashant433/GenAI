@@ -2,13 +2,13 @@
 
 A comprehensive collection of Generative AI notebooks — from foundational concepts to production-ready agentic systems.
 
-> Open any notebook directly in Google Colab using the **Open in Colab** links below.
+> Open any notebook directly in Google Colab using the **🔗 Open in Colab** links below.  
+> **Note:** Run the [test_notebook.ipynb](https://colab.research.google.com/drive/1ta6TGmvgYwbk3FBIBcFP_AUUxb7iGA8x) to start hands-on revision
+
 
 ---
 
 ## Table of Contents
-
-### Foundation & Theory (Part 01–15)
 
 | # | Topic | Open in Colab |
 |---|-------|---------------|
@@ -27,27 +27,15 @@ A comprehensive collection of Generative AI notebooks — from foundational conc
 | 13 | [Inference vs Training — 5-Step Strategy](Part13_Inference_vs_Training.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part13_Inference_vs_Training.ipynb) |
 | 14 | [Agentic AI — Architectures & Frameworks](Part14_Agentic_AI.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part14_Agentic_AI.ipynb) |
 | 15 | [LangGraph — State, Graphs & Agentic Workflows](Part15_LangGraph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part15_LangGraph.ipynb) |
-
-### LLM Engineering — Hands-On (Part 16–19)
-
-| # | Topic | Open in Colab |
-|---|-------|---------------|
 | 16 | [Multi-Model APIs, Streaming & Gradio UI](Part16_Multi_Model_APIs_Gradio.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part16_Multi_Model_APIs_Gradio.ipynb) |
 | 17 | [Tool Calling, Multi-modal & Code Generation](Part17_Tool_Calling_Multimodal.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part17_Tool_Calling_Multimodal.ipynb) |
 | 18 | [Fine-Tuning & Dataset Curation](Part18_Fine_Tuning_Dataset_Curation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part18_Fine_Tuning_Dataset_Curation.ipynb) |
 | 19 | [Production Deployment with Modal](Part19_Production_Deployment_Modal.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part19_Production_Deployment_Modal.ipynb) |
-
-### Agentic AI — Frameworks (Part 20–24)
-
-| # | Topic | Open in Colab |
-|---|-------|---------------|
 | 20 | [Agentic AI Foundations & OpenAI Agents SDK](Part20_Agentic_AI_Foundations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part20_Agentic_AI_Foundations.ipynb) |
 | 21 | [CrewAI — Multi-Agent Teams](Part21_CrewAI_Multi_Agent_Teams.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part21_CrewAI_Multi_Agent_Teams.ipynb) |
 | 22 | [AutoGen — Multi-Agent Conversations](Part22_AutoGen_Framework.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part22_AutoGen_Framework.ipynb) |
 | 23 | [Model Context Protocol (MCP)](Part23_Model_Context_Protocol.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part23_Model_Context_Protocol.ipynb) |
 | 24 | [Professionally You — Personal Me-Bot with Tool Calling](Part24_Professionally_You_MeBot.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part24_Professionally_You_MeBot.ipynb) |
-
-> Parts 07 and 08 together form a complete RAG track: vector-based (Part 07) → vectorless tree-based (Part 08).
 
 ---
 
@@ -172,59 +160,3 @@ A comprehensive collection of Generative AI notebooks — from foundational conc
 <summary><b>Part 24: Professionally You — Personal Me-Bot</b></summary>
 <ul><li>Load LinkedIn PDF + summary.txt as persona context</li><li>Tool calling: record_user_details, record_unknown_question</li><li>Tool dispatcher using globals() — no if-statement dispatch needed</li><li>Agent loop with finish_reason check (tool_calls vs stop)</li><li>Pushover push notifications for real-time lead alerts</li><li>Gradio ChatInterface for web UI</li><li>HuggingFace Spaces deployment (free public hosting)</li></ul>
 </details>
-
----
-
-## Quick Reference
-
-| Category | Topics |
-|----------|--------|
-| **Foundation** | Tokenization, BPE, Embeddings, Gradients, Transformers |
-| **Models** | GPT, LLaMA, Claude, Gemini, open vs closed source, benchmarks |
-| **Techniques** | Prompt Engineering, RAG, Vectorless RAG, Fine-tuning, PEFT (LoRA, QLoRA) |
-| **Post-Training** | SFT, RLHF, conversation datasets |
-| **Tools & Platforms** | HuggingFace, LangChain, OpenAI API, ChromaDB, Modal |
-| **Engineering** | Gradio UI, Tool Calling, Multi-modal, Code Gen, Streaming |
-| **Agents** | OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP, PageIndex |
-| **Projects** | Multi-Model Tournament, Me-Bot, HuggingFace Spaces Deploy |
-
----
-
-## Learning Paths
-
-| Path | Notebooks |
-|------|-----------|
-| **Beginners** | Part01 → Part02 → Part03 → Part04 → Part05 |
-| **API Practitioners** | Part05 → Part06 → Part16 → Part17 |
-| **RAG Engineers** | Part07 → Part08 → Part09 → Part11 |
-| **Fine-tuning** | Part09 → Part10 → Part13 → Part18 |
-| **MLOps / Production** | Part13 → Part19 → Part12 |
-| **Agent Builders** | Part14 → Part15 → Part20 → Part21 → Part22 → Part23 |
-| **Build & Deploy** | Part17 → Part24 → Part19 |
-| **Full Course** | Part01 → Part24 (sequential, no gaps) |
-
----
-
-## Architecture Diagrams
-
-### Agentic AI Patterns (Part 20)
-
-| Pattern | Diagram |
-|---------|---------|
-| Agent Loop | ![Agent Loop](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_agent_loop.png) |
-| Tool Execution | ![Tool Execution](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_tool_execution.png) |
-| Prompt Chaining / Pipeline | ![Pipeline](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_pipeline.png) |
-| Router | ![Router](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_router.png) |
-| Parallelization | ![Parallelization](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_parallelization.png) |
-| Orchestrator-Workers | ![Orchestrator](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_orchestrator.png) |
-| Generator-Evaluator | ![Evaluator](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_evaluator.png) |
-
-### MCP Architecture (Part 23)
-
-![MCP Architecture](https://raw.githubusercontent.com/sprashant433/GenAI/main/images/pattern_mcp_architecture.png)
-
----
-
-**Last Updated**: 2026-04-19
-**Total Notebooks**: 24 (Parts 01–24, fully sequential)
-**Topics Covered**: 500+ concepts across theory, engineering, and production
