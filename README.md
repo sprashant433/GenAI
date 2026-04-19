@@ -25,17 +25,19 @@ A comprehensive collection of Generative AI notebooks — from foundational conc
 | 11 | [Hugging Face — Platform, Pipelines & Transformers](Part11_Hugging_Face.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part11_Hugging_Face.ipynb) |
 | 12 | [LLM Comparisons & Benchmarks](Part12_LLM_Comparisons_Benchmarks.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part12_LLM_Comparisons_Benchmarks.ipynb) |
 | 13 | [Inference vs Training — 5-Step Strategy](Part13_Inference_vs_Training.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part13_Inference_vs_Training.ipynb) |
-| 14 | [Agentic AI — Architectures & Frameworks](Part14_Agentic_AI.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part14_Agentic_AI.ipynb) |
-| 15 | [LangGraph — State, Graphs & Agentic Workflows](Part15_LangGraph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part15_LangGraph.ipynb) |
-| 16 | [Multi-Model APIs, Streaming & Gradio UI](Part16_Multi_Model_APIs_Gradio.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part16_Multi_Model_APIs_Gradio.ipynb) |
-| 17 | [Tool Calling, Multi-modal & Code Generation](Part17_Tool_Calling_Multimodal.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part17_Tool_Calling_Multimodal.ipynb) |
-| 18 | [Fine-Tuning & Dataset Curation](Part18_Fine_Tuning_Dataset_Curation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part18_Fine_Tuning_Dataset_Curation.ipynb) |
-| 19 | [Production Deployment with Modal](Part19_Production_Deployment_Modal.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part19_Production_Deployment_Modal.ipynb) |
-| 20 | [Agentic AI Foundations & OpenAI Agents SDK](Part20_Agentic_AI_Foundations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part20_Agentic_AI_Foundations.ipynb) |
-| 21 | [CrewAI — Multi-Agent Teams](Part21_CrewAI_Multi_Agent_Teams.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part21_CrewAI_Multi_Agent_Teams.ipynb) |
-| 22 | [AutoGen — Multi-Agent Conversations](Part22_AutoGen_Framework.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part22_AutoGen_Framework.ipynb) |
-| 23 | [Model Context Protocol (MCP)](Part23_Model_Context_Protocol.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part23_Model_Context_Protocol.ipynb) |
-| 24 | [Professionally You — Personal Me-Bot with Tool Calling](Part24_Professionally_You_MeBot.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part24_Professionally_You_MeBot.ipynb) |
+| 14 | [UV Package Manager — Fast Python Environments](Part14_UV_Package_Manager.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part14_UV_Package_Manager.ipynb) |
+| 15 | [Vibe Coding — AI-Assisted Development](Part15_Vibe_Coding.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part15_Vibe_Coding.ipynb) |
+| 16 | [Agentic AI — Architectures, Patterns & Frameworks](Part16_Agentic_AI.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part16_Agentic_AI.ipynb) |
+| 17 | [OpenAI Agents SDK — Swarm & Multi-Agent Orchestration](Part17_OpenAI_Agents_SDK.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part17_OpenAI_Agents_SDK.ipynb) |
+| 18 | [LangGraph — State, Graphs & Agentic Workflows](Part18_LangGraph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part18_LangGraph.ipynb) |
+| 19 | [CrewAI — Multi-Agent Teams](Part19_CrewAI_Multi_Agent_Teams.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part19_CrewAI_Multi_Agent_Teams.ipynb) |
+| 20 | [AutoGen — Multi-Agent Conversations](Part20_AutoGen_Framework.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part20_AutoGen_Framework.ipynb) |
+| 21 | [Model Context Protocol (MCP)](Part21_Model_Context_Protocol.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part21_Model_Context_Protocol.ipynb) |
+| 22 | [Production Deployment with Modal](Part22_Production_Deployment_Modal.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part22_Production_Deployment_Modal.ipynb) |
+| 23 | [Multi-Model APIs, Streaming & Gradio UI](Part23_Multi_Model_APIs_Gradio.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part23_Multi_Model_APIs_Gradio.ipynb) |
+| 24 | [Tool Calling, Multi-modal & Code Generation](Part24_Tool_Calling_Multimodal.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part24_Tool_Calling_Multimodal.ipynb) |
+| 25 | [Fine-Tuning & Dataset Curation](Part25_Fine_Tuning_Dataset_Curation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part25_Fine_Tuning_Dataset_Curation.ipynb) |
+| 26 | [Professionally You — Personal Me-Bot with Tool Calling](Part26_Professionally_You_MeBot.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sprashant433/GenAI/blob/main/Part26_Professionally_You_MeBot.ipynb) |
 
 ---
 
@@ -107,56 +109,66 @@ A comprehensive collection of Generative AI notebooks — from foundational conc
 </details>
 
 <details>
-<summary><b>Part 14: Agentic AI — Architectures & Frameworks</b></summary>
-<ul><li>Agents vs workflows: when to use each</li><li>ReAct, Plan-and-Execute, Reflection, Multi-Agent architectures</li><li>Framework comparison: LangGraph vs CrewAI vs AutoGen vs OpenAI Agents SDK</li><li>UV package manager for agent environments</li></ul>
+<summary><b>Part 14: UV Package Manager — Fast Python Environments</b></summary>
+<ul><li>UV: Python package and project manager written in Rust — 10–100× faster than pip</li><li>Installation and setup: uv init, uv add, uv sync</li><li>Dependency resolution with pyproject.toml and uv.lock</li><li>Virtual environment management: uv venv, uv run</li><li>Replacing pip, pip-tools, pipenv, and poetry with a single tool</li><li>UV in CI/CD pipelines and Colab notebooks</li></ul>
 </details>
 
 <details>
-<summary><b>Part 15: LangGraph — State, Graphs & Agentic Workflows</b></summary>
+<summary><b>Part 15: Vibe Coding — AI-Assisted Development</b></summary>
+<ul><li>Vibe coding: building software through natural language with AI pair programmers</li><li>AI coding tools: Cursor, GitHub Copilot, Claude Code, Windsurf</li><li>Prompt-driven development workflow: describe → generate → iterate</li><li>Best practices for guiding LLMs to write correct, maintainable code</li><li>When to trust AI output vs when to review carefully</li><li>Practical projects built end-to-end with AI assistance</li></ul>
+</details>
+
+<details>
+<summary><b>Part 16: Agentic AI — Architectures, Patterns & Frameworks</b></summary>
+<ul><li>Agents vs workflows: when to use each</li><li>Key agent characteristics: multiple LLM calls, tool usage, planning, autonomy</li><li>Workflow design patterns: Prompt Chaining, Routing, Parallelization, Orchestrator-Workers, Evaluator-Optimizer</li><li>ReAct, Plan-and-Execute, Reflection, Multi-Agent architectures</li><li>Guardrails for safe agentic systems</li><li>Framework comparison: LangGraph vs CrewAI vs AutoGen vs OpenAI Agents SDK</li></ul>
+</details>
+
+<details>
+<summary><b>Part 17: OpenAI Agents SDK — Swarm & Multi-Agent Orchestration</b></summary>
+<ul><li>Lightweight multi-agent framework: agents, handoffs, guardrails</li><li>Agent definition with instructions and tools</li><li>Tool vs handoff distinction: tools return control, handoffs pass control</li><li>@function_tool decorator and structured outputs with Pydantic</li><li>Input guardrails and output guardrails</li><li>Hosted tools: WebSearchTool, CodeInterpreterTool</li><li>Multi-model agents: mixing GPT-4o, Claude, and other providers</li></ul>
+</details>
+
+<details>
+<summary><b>Part 18: LangGraph — State, Graphs & Agentic Workflows</b></summary>
 <ul><li>Core primitives: State (TypedDict/Pydantic), Nodes, Edges, reducers</li><li>add_messages reducer: append vs replace semantics</li><li>5-step graph build: StateGraph → add_node → add_edge → compile → invoke</li><li>Graph topology visualization: linear chain, branching router, ReAct loop</li><li>Tool integration: @tool, llm.bind_tools(), ToolNode, tools_condition</li><li>Conditional routing: add_conditional_edges, Literal return types</li><li>Memory & checkpointing: MemorySaver, SqliteSaver, thread_id sessions</li><li>Time-travel debugging: get_state_history(), checkpoint replay</li><li>Human-in-the-loop: interrupt() + Command(resume=...)</li></ul>
 </details>
 
 <details>
-<summary><b>Part 16: Multi-Model APIs, Streaming & Gradio UI</b></summary>
-<ul><li>OpenAI, Anthropic, Gemini, DeepSeek client setup</li><li>Web scraping with BeautifulSoup</li><li>Streaming: token-by-token output (OpenAI + Claude)</li><li>Async parallel multi-model calls</li><li>Gradio: Interface, ChatInterface, streaming chat</li><li>ConversationManager for stateful multi-turn chat</li><li>Multi-Model Tournament: 6 models, o3-mini as LLM judge → JSON ranking</li></ul>
-</details>
-
-<details>
-<summary><b>Part 17: Tool Calling, Multi-modal & Code Generation</b></summary>
-<ul><li>JSON schema tool definitions, finish_reason=tool_calls loop</li><li>DALL-E 3 image generation, TTS-1 (6 voices)</li><li>Multi-modal Airline Assistant</li><li>Python → C++ optimization via LLM, subprocess compile & run</li></ul>
-</details>
-
-<details>
-<summary><b>Part 18: Fine-Tuning & Dataset Curation</b></summary>
-<ul><li>HuggingFace datasets: loading, filtering, tiktoken analysis</li><li>OpenAI fine-tuning: JSONL upload → job submission → monitoring</li><li>HuggingFace LoRA fine-tuning with SFTTrainer</li></ul>
-</details>
-
-<details>
-<summary><b>Part 19: Production Deployment with Modal</b></summary>
-<ul><li>Serverless GPU containers, web endpoints, secrets, cron scheduling</li><li>Llama 3 deployment on Modal</li><li>Pricer Service pattern: SpecialistAgent + OrchestratorAgent</li></ul>
-</details>
-
-<details>
-<summary><b>Part 20: Agentic AI Foundations & OpenAI Agents SDK</b></summary>
-<ul><li>Agent loop diagram and tool execution flow</li><li>6 core design patterns with visual diagrams: Prompt Chaining, Router, Parallelization, Orchestrator-Workers, Generator-Evaluator, No-Framework Loop</li><li>OpenAI Agents SDK: Agent, @function_tool, handoff(), @input_guardrail</li><li>Multi-model agents, WebSearchTool</li></ul>
-</details>
-
-<details>
-<summary><b>Part 21: CrewAI — Multi-Agent Teams</b></summary>
+<summary><b>Part 19: CrewAI — Multi-Agent Teams</b></summary>
 <ul><li>Agent, Task, Crew primitives</li><li>Process.sequential and Process.hierarchical</li><li>Custom tools, content crew, engineering team</li><li>Gradio UI wrapping a CrewAI pipeline</li></ul>
 </details>
 
 <details>
-<summary><b>Part 22: AutoGen — Multi-Agent Conversations</b></summary>
+<summary><b>Part 20: AutoGen — Multi-Agent Conversations</b></summary>
 <ul><li>AssistantAgent, FunctionTool, RoundRobinGroupChat, SelectorGroupChat</li><li>Nested agent teams</li><li>Model-agnostic design: swap LLM provider without code changes</li></ul>
 </details>
 
 <details>
-<summary><b>Part 23: Model Context Protocol (MCP)</b></summary>
+<summary><b>Part 21: Model Context Protocol (MCP)</b></summary>
 <ul><li>MCP architecture: Host / Client / Local + Remote Servers</li><li>MCPServerStdio: mcp-server-fetch, Playwright, Filesystem</li><li>FastMCP: @mcp.tool(), @mcp.resource() decorators</li><li>MCP client (direct protocol), multi-server agents</li></ul>
 </details>
 
 <details>
-<summary><b>Part 24: Professionally You — Personal Me-Bot</b></summary>
+<summary><b>Part 22: Production Deployment with Modal</b></summary>
+<ul><li>Serverless GPU containers, web endpoints, secrets, cron scheduling</li><li>Llama 3 deployment on Modal</li><li>Pricer Service pattern: SpecialistAgent + OrchestratorAgent</li><li>Autonomous multi-agent orchestrators on serverless infrastructure</li><li>Deployment lifecycle: local testing → staging → production</li></ul>
+</details>
+
+<details>
+<summary><b>Part 23: Multi-Model APIs, Streaming & Gradio UI</b></summary>
+<ul><li>OpenAI, Anthropic, Gemini, DeepSeek client setup</li><li>Web scraping with BeautifulSoup</li><li>Streaming: token-by-token output (OpenAI + Claude)</li><li>Async parallel multi-model calls</li><li>Gradio: Interface, ChatInterface, streaming chat</li><li>ConversationManager for stateful multi-turn chat</li><li>Multi-Model Tournament: 6 models, o3-mini as LLM judge → JSON ranking</li></ul>
+</details>
+
+<details>
+<summary><b>Part 24: Tool Calling, Multi-modal & Code Generation</b></summary>
+<ul><li>JSON schema tool definitions, finish_reason=tool_calls loop</li><li>DALL-E 3 image generation, TTS-1 (6 voices)</li><li>Multi-modal Airline Assistant</li><li>Python → C++ optimization via LLM, subprocess compile & run</li></ul>
+</details>
+
+<details>
+<summary><b>Part 25: Fine-Tuning & Dataset Curation</b></summary>
+<ul><li>HuggingFace datasets: loading, filtering, tiktoken analysis</li><li>OpenAI fine-tuning: JSONL upload → job submission → monitoring</li><li>HuggingFace LoRA fine-tuning with SFTTrainer</li></ul>
+</details>
+
+<details>
+<summary><b>Part 26: Professionally You — Personal Me-Bot</b></summary>
 <ul><li>Load LinkedIn PDF + summary.txt as persona context</li><li>Tool calling: record_user_details, record_unknown_question</li><li>Tool dispatcher using globals() — no if-statement dispatch needed</li><li>Agent loop with finish_reason check (tool_calls vs stop)</li><li>Pushover push notifications for real-time lead alerts</li><li>Gradio ChatInterface for web UI</li><li>HuggingFace Spaces deployment (free public hosting)</li></ul>
 </details>
